@@ -1,4 +1,3 @@
-```javascript
 //   +=====================================================+
 //   |                 WRITE YOUR CODE HERE                |
 //   | Description:                                        |
@@ -17,6 +16,7 @@
 //   | - Example with object:                              |
 //   |   anagramGroups[canonical] = group;                 |
 //   +=====================================================+
+
 /*
 function groupAnagrams(arr) {
   const anagramGroups = new Map();
